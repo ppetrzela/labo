@@ -1,0 +1,6 @@
+Se terminó eligiendo este modelo porque a pesar de ser de extrema simpleza, es el que mayor estabilidad dió en las pruebas
+Se probó hacer un "Feature Engineering" más complejo, aumentar la cantidad de repeticiones del 5-Fold Cross Validation
+para cada iteración en la Optimización Bayesiana. No obstante, al testearlo sobre la muestra disponible de 202101 o 202112,
+los resultados no mostraron ser ni tan buenos ni tan estables. En esta ocasión opté por la simpleza, porque a pesar de que
+metodológicamente me genera dudas, la estabilidad encontrada en las pruebas otorga mayor confianza a los resultados sobre
+otros intentos.
